@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --heading-02-48-pixel: Nunito;
+  --text-regular-normal: Roboto;
+
+  /* font sizes */
+  --font-size-base-6: 15.6px;
+  --font-size-4xl-4: 23.4px;
+  --font-size-sm-7: 13.7px;
+  --heading-02-48-pixel-size: 48px;
+  --text-regular-normal-size: 16px;
+  --font-size-sm: 14px;
+  --paragraph-18-pixel-size: 18px;
+  --heading-04-28-pixel-size: 28px;
+  --heading-05-20-pixel-size: 20px;
+  --font-size-base-4: 15.4px;
+  --heading-03-32-pixel-size: 32px;
+  --font-size-6xs-3: 6.3px;
+  --font-size-smi-1: 12.1px;
+  --heading-01-56-pixel-size: 56px;
+
+  /* Colors */
+  --white: #fff;
+  --primary-color: #ff007a;
+  --pragraph: #3d3a41;
+  --color-darkslategray-100: #393333;
+  --color-darkslategray-200: #333;
+  --color-gray: #211f25;
+  --color-whitesmoke: #f4f4f4;
+  --black: #000;
+  --neutral-dark-gray: #505050;
+  --color-snow: #fff6f6;
+  --color-ghostwhite-100: #fcfbff;
+  --color-ghostwhite-200: #f7f5ff;
+  --color-ghostwhite-300: #f3f1ff;
+  --color-gainsboro: #d9d9d9;
+  --color-mediumslateblue: rgba(115, 115, 255, 0.32);
+
+  /* Gaps */
+  --gap-61xl: 80px;
+  --gap-13xl: 32px;
+  --gap-4xl-4: 23.4px;
+  --gap-5xs: 8px;
+  --gap-base-6: 15.6px;
+  --gap-5xs-8: 7.8px;
+  --gap-base: 16px;
+  --gap-41xl: 60px;
+  --gap-5xl: 24px;
+  --gap-12xl-2: 31.2px;
+  --gap-11xl-7: 30.7px;
+  --gap-base-4: 15.4px;
+  --gap-9xs-8: 3.8px;
+  --gap-21xl: 40px;
+  --gap-14xl: 33px;
+  --gap-smi-1: 12.1px;
+  --gap-4xs-3: 8.3px;
+  --gap-457xl: 476px;
+
+  /* Paddings */
+  --padding-141xl: 160px;
+  --padding-4xl-4: 23.4px;
+  --padding-5xs-8: 7.8px;
+  --padding-9xs-9: 3.9px;
+  --padding-base: 16px;
+  --padding-9xl: 28px;
+  --padding-81xl: 100px;
+  --padding-5xl: 24px;
+  --padding-52xl-1: 71.1px;
+  --padding-12xl-2: 31.2px;
+  --padding-base-4: 15.4px;
+  --padding-11xl-7: 30.7px;
+  --padding-xl: 20px;
+  --padding-smi-1: 12.1px;
+  --padding-7xs: 6px;
+  --padding-mid-9: 17.9px;
+  --padding-21xl: 40px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-13xl: 32px;
+  --br-29xl: 48px;
+  --br-6xs-7: 6.7px;
+  --br-3xs-1: 9.1px;
+  --br-10xs-3: 2.3px;
+  --br-10xs: 3px;
+  --br-mid-3: 17.3px;
+  --br-3xs-8: 9.8px;
+  --br-smi-1: 12.1px;
+  --br-72xl-6: 91.6px;
+
+  /* Effects */
+  --drop-shadow: 0px 0px 42.18px rgba(0, 0, 0, 0.1);
+  --shadow-xs: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
